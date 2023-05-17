@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SimpleMatrixCalc
 {
-    public partial class Form1 : Form
+    public partial class MatrixCalcForm : Form
     {
-        public Form1()
+        public MatrixCalcForm()
         {
             InitializeComponent();
         }

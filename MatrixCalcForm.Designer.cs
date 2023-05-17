@@ -1,6 +1,6 @@
 ﻿namespace SimpleMatrixCalc
 {
-    partial class Form1
+    partial class MatrixCalcForm
     {
         /// <summary>
         /// Обязательная переменная конструктора.
