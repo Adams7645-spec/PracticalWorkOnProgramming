@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMatrixCalc", "SimpleMatrixCalc.csproj", "{B8F66284-16FA-45E5-8B4C-DB5A6E5927A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenshotApp", "..\..\System\Рабочий стол\Progs\ScreenshotApp\ScreenshotApp\ScreenshotApp.csproj", "{6192653F-6D48-4F84-B545-50EAA37E7138}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenshotApp", "..\..\Workspace\Folders\___ПрактическаяРабота___\Progs\ScreenshotApp\ScreenshotApp\ScreenshotApp.csproj", "{6192653F-6D48-4F84-B545-50EAA37E7138}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
