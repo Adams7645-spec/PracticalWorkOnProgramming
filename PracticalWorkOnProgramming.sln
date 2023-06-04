@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrabGraphicObjects", "GrabG
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenshotApp", "ScreenshotApp\ScreenshotApp\ScreenshotApp.csproj", "{6192653F-6D48-4F84-B545-50EAA37E7138}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingWords", "SortingWords\SortingWords.csproj", "{D99A27DE-94C1-4BE5-9178-CD44EC1D0F59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicEditor", "GraphicEditor\Пр8\GraphicEditor.csproj", "{18907857-DDDE-49BF-853E-DFF3B1C4EACC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{6192653F-6D48-4F84-B545-50EAA37E7138}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6192653F-6D48-4F84-B545-50EAA37E7138}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6192653F-6D48-4F84-B545-50EAA37E7138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D99A27DE-94C1-4BE5-9178-CD44EC1D0F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D99A27DE-94C1-4BE5-9178-CD44EC1D0F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D99A27DE-94C1-4BE5-9178-CD44EC1D0F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D99A27DE-94C1-4BE5-9178-CD44EC1D0F59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18907857-DDDE-49BF-853E-DFF3B1C4EACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18907857-DDDE-49BF-853E-DFF3B1C4EACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18907857-DDDE-49BF-853E-DFF3B1C4EACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18907857-DDDE-49BF-853E-DFF3B1C4EACC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -37,7 +37,7 @@ namespace ImageAnimation
             Frames = new Bitmap[18];
             for (int i = 0; i < 18; i++)
             {
-                Frames[i] = new Bitmap("E:/Programm/ImageAnimation/Frame" + i + ".png");
+                Frames[i] = new Bitmap("C:/Users/aspin/Source/Repos/Adams7645-spec/PracticalWorkOnProgramming/ImageAnimation/Frame" + i + ".png");
             }
             pictureBox.Image = Frames[FrameNum];
         }
